@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.fa-brands{
+    /* color: rgb(243, 204, 204); */
+    width: 33px;
+    height: 33px;
+    color: #FF6E3D;
+    font-size: 21px;
+    /* align-items: center; */
+
+
+    
+}
+.f-head{
+    color: #FF6E3D;
+    font-size:20px ;
+}
+
+#foot-main a{
+
+    text-decoration: none;
+    line-height: 42px;
+
+}
+#foot-main a:hover{
+    color: black;
+}

@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+@media screen and (max-width: 500px) {
+    /* STYLES HERE */
+    #pro-row{
+        padding-left: 14%;
+    }
+
+
+}
+ 
+
