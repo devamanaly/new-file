@@ -41,6 +41,8 @@
 }
 .fa-brands{
     color: #FF6E3D;
+    
+    transform: translate(5px, 8px);
 }
 .fux{
     margin-left: 10px;
